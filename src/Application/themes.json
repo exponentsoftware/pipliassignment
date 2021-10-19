@@ -1,0 +1,65 @@
+{
+  "usertheme":[
+        {
+            "id":1,
+            "bg":"red",
+            "color":"white",
+            "fontSize":"50px"
+        },
+        {
+            "id": 2,
+            "bg": "teal",
+            "color": "black",
+            "fontSize": "25px"
+        },
+        {
+            "id": 3,
+            "bg": "blue",
+            "color": "orange",
+            "fontSize": "10px"
+        },
+        {
+            "id": 4,
+            "bg": "red",
+            "color": "white",
+            "fontSize": "50px"
+        },
+        {
+            "id": 5,
+            "bg": "teal",
+            "color": "black",
+            "fontSize": "25px"
+        },
+        {
+            "id": 6,
+            "bg": "blue",
+            "color": "orange",
+            "fontSize": "10px"
+        },
+        {
+            "id": 7,
+            "bg": "red",
+            "color": "white",
+            "fontSize": "50px"
+        },
+        {
+            "id": 8,
+            "bg": "blue",
+            "color": "orange",
+            "fontSize": "10px"
+        },
+        {
+            "id": 9,
+            "bg": "red",
+            "color": "white",
+            "fontSize": "50px"
+        },
+        {
+            "id": 10,
+            "bg": "blue",
+            "color": "orange",
+            "fontSize": "10px"
+        }
+       
+    ]
+}
